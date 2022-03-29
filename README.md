@@ -1,4 +1,4 @@
-# Test GC log file properties.
+# Test GC log file properties
 To see the logs in IntelijIDEA:
 - Go to the Run -> Edit Configurations -> Modify Options -> Add VM options;
 - Paste the needed options into VM field.
